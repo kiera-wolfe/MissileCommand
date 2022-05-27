@@ -1,0 +1,34 @@
+make outlines - Kiera
+
+KEYINTERACTOR
+action listener
+
+GAME PANEL
+missile factory (needs to pick a random location on the top, then pick a random city/shooter to travel to, put missiles in list)
+moveDown (needs to move the missile in a straight line towards the city) - RV
+
+mouselistener implements KeyInteractor (needs to get the location of the cursor) - Sam
+arrowkeylistener implements KeyInteractor (needs to make a explosion (red ellipse) for a given radius, check number of missiles
+needs to decrement shooter amount) - Sam
+spaceListener (call pause) - Sam
+
+addlevel (needs to talley points and display points keep points screen up for a certain number of time) - RV
+gameover - RV
+
+checkMissiles
+explosion (check from list of missiles, if exists in explosion radius, remove from list, repaint) - Jack
+pauseFunction
+
+HITABLE INTERFACE - Jack
+Got hit
+Disappear
+
+SHOOTER CLASS implements hitable - Jack
+numberofmissiles (needs to return missiles or T/F)
+
+CITY CLASS implements hitable - Jack
+
+
+Notes:
+Set number of missiles for each level, increase level by same amount each time
+Wednesday to dos

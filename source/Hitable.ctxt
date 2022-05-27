@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hitable
+comment1.params=
+comment1.target=boolean\ GotHit()
+comment2.params=
+comment2.target=void\ Disappear()
+numComments=3

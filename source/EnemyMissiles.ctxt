@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=EnemyMissiles
+comment1.params=x\ y
+comment1.target=EnemyMissiles(int,\ int)
+comment2.params=
+comment2.target=boolean\ onscreen()
+comment3.params=brush
+comment3.target=void\ fill(java.awt.Graphics2D)
+comment4.params=brush
+comment4.target=void\ draw(java.awt.Graphics2D)
+comment5.params=
+comment5.target=void\ move()
+comment6.params=
+comment6.target=java.awt.geom.Point2D\ getArea()
+comment7.params=
+comment7.target=double\ getX()
+comment8.params=
+comment8.target=double\ getY()
+numComments=9
